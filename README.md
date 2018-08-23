@@ -1,4 +1,5 @@
 # git-example
-```html
+
+```javascript
 in classs example
 ```
