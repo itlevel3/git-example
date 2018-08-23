@@ -1,5 +1,5 @@
 # git-example
 
 ```javascript
-in classs example
+in class example
 ```
